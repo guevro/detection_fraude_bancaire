@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.impute
+sklearn.pipeline
+sklearn.linear_model
+sklearn.ensemble 
+RandomForestClassifier
+GradientBoostingClassifier
+IsolationForest
+ BaggingClassifier
